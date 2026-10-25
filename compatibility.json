@@ -441,7 +441,7 @@
  "status": "Perfect"
 "title-id": "SLUS-21356"
 "notes": "Runs perfectly on 1.75x native"
-"region": NTSC-U
+"region": "NTSC-U"
 "tested_socs": 
 "soc_name": "MT6835T"
 "vulkan_status": "Perfect"
